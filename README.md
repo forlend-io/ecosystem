@@ -1,4 +1,4 @@
-# ThunderCore Ecosystem
+# ThunderCore Ecosystem Testing
 
 ThunderCore ⚡️ DApp submission
 
